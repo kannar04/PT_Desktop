@@ -1,0 +1,13 @@
+C:\Users\TRUNG PHONG\source\repos\Buoi_3\Buoi_3\obj\Debug\Buoi_3.csproj.AssemblyReference.cache
+C:\Users\TRUNG PHONG\source\repos\Buoi_3\Buoi_3\obj\Debug\Buoi_3.Form1.resources
+C:\Users\TRUNG PHONG\source\repos\Buoi_3\Buoi_3\obj\Debug\Buoi_3.Properties.Resources.resources
+C:\Users\TRUNG PHONG\source\repos\Buoi_3\Buoi_3\obj\Debug\Buoi_3.csproj.GenerateResource.cache
+C:\Users\TRUNG PHONG\source\repos\Buoi_3\Buoi_3\obj\Debug\Buoi_3.csproj.CoreCompileInputs.cache
+C:\Users\TRUNG PHONG\source\repos\Buoi_3\Buoi_3\bin\Debug\Buoi_3.exe.config
+C:\Users\TRUNG PHONG\source\repos\Buoi_3\Buoi_3\bin\Debug\Buoi_3.exe
+C:\Users\TRUNG PHONG\source\repos\Buoi_3\Buoi_3\bin\Debug\Buoi_3.pdb
+C:\Users\TRUNG PHONG\source\repos\Buoi_3\Buoi_3\obj\Debug\Buoi_3.exe
+C:\Users\TRUNG PHONG\source\repos\Buoi_3\Buoi_3\obj\Debug\Buoi_3.pdb
+C:\Users\TRUNG PHONG\source\repos\Buoi_3\Buoi_3\obj\Debug\Buoi_3.exe.config
+C:\Users\TRUNG PHONG\source\repos\Buoi_3\Buoi_3\obj\Debug\Buoi_3.Form2.resources
+C:\Users\TRUNG PHONG\source\repos\Buoi_3\Buoi_3\obj\Debug\Buoi_3.Form3.resources
