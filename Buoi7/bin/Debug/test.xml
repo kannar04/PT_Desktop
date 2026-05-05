@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<SanPhams>
+     <SanPham>
+          <MaSanPham>1</MaSanPham>
+          <TenSanPham>Sách lập trình C#</TenSanPham>
+          <MaLoai>1</MaLoai>
+          <DonGia>400000</DonGia>
+     </SanPham>
+     <SanPham>
+          <MaSanPham>2</MaSanPham>
+          <TenSanPham>Sách lập trình VB</TenSanPham>
+          <MaLoai>1</MaLoai>
+          <DonGia>50000</DonGia>
+     </SanPham>
+</SanPhams>

@@ -1,0 +1,10 @@
+E:\Tung\Code\VS_Studio\Buoi_5_C#_Advance\bin\Debug\Buoi_5_C#_Advance.exe.config
+E:\Tung\Code\VS_Studio\Buoi_5_C#_Advance\bin\Debug\Buoi_5_C#_Advance.exe
+E:\Tung\Code\VS_Studio\Buoi_5_C#_Advance\bin\Debug\Buoi_5_C#_Advance.pdb
+E:\Tung\Code\VS_Studio\Buoi_5_C#_Advance\obj\Debug\Buoi_5_C#_Advance.csproj.AssemblyReference.cache
+E:\Tung\Code\VS_Studio\Buoi_5_C#_Advance\obj\Debug\Buoi_5_C__Advance.Form1.resources
+E:\Tung\Code\VS_Studio\Buoi_5_C#_Advance\obj\Debug\Buoi_5_C__Advance.Properties.Resources.resources
+E:\Tung\Code\VS_Studio\Buoi_5_C#_Advance\obj\Debug\Buoi_5_C#_Advance.csproj.GenerateResource.cache
+E:\Tung\Code\VS_Studio\Buoi_5_C#_Advance\obj\Debug\Buoi_5_C#_Advance.csproj.CoreCompileInputs.cache
+E:\Tung\Code\VS_Studio\Buoi_5_C#_Advance\obj\Debug\Buoi_5_C#_Advance.exe
+E:\Tung\Code\VS_Studio\Buoi_5_C#_Advance\obj\Debug\Buoi_5_C#_Advance.pdb

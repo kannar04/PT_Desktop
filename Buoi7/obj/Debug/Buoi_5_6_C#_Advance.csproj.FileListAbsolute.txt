@@ -1,0 +1,22 @@
+E:\Tung\Code\VS_Studio\Buoi_5_C#_Advance\bin\Debug\Buoi_5_C#_Advance.exe.config
+E:\Tung\Code\VS_Studio\Buoi_5_C#_Advance\bin\Debug\Buoi_5_C#_Advance.exe
+E:\Tung\Code\VS_Studio\Buoi_5_C#_Advance\bin\Debug\Buoi_5_C#_Advance.pdb
+E:\Tung\Code\VS_Studio\Buoi_5_C#_Advance\obj\Debug\Buoi_5_6_C#_Advance.csproj.AssemblyReference.cache
+E:\Tung\Code\VS_Studio\Buoi_5_C#_Advance\obj\Debug\Buoi_5_C__Advance.Form1.resources
+E:\Tung\Code\VS_Studio\Buoi_5_C#_Advance\obj\Debug\Buoi_5_C__Advance.Properties.Resources.resources
+E:\Tung\Code\VS_Studio\Buoi_5_C#_Advance\obj\Debug\Buoi_5_6_C#_Advance.csproj.GenerateResource.cache
+E:\Tung\Code\VS_Studio\Buoi_5_C#_Advance\obj\Debug\Buoi_5_6_C#_Advance.csproj.CoreCompileInputs.cache
+E:\Tung\Code\VS_Studio\Buoi_5_C#_Advance\obj\Debug\Buoi_5_C#_Advance.exe
+E:\Tung\Code\VS_Studio\Buoi_5_C#_Advance\obj\Debug\Buoi_5_C#_Advance.pdb
+C:\Users\TRUNG PHONG\OneDrive\lập trình\desktop\Desltop_Class\Buoi_5_C#_Advance\bin\Debug\Buoi_5_C#_Advance.exe.config
+C:\Users\TRUNG PHONG\OneDrive\lập trình\desktop\Desltop_Class\Buoi_5_C#_Advance\bin\Debug\Buoi_5_C#_Advance.exe
+C:\Users\TRUNG PHONG\OneDrive\lập trình\desktop\Desltop_Class\Buoi_5_C#_Advance\bin\Debug\Buoi_5_C#_Advance.pdb
+C:\Users\TRUNG PHONG\OneDrive\lập trình\desktop\Desltop_Class\Buoi_5_C#_Advance\obj\Debug\Buoi_5_6_C#_Advance.csproj.AssemblyReference.cache
+C:\Users\TRUNG PHONG\OneDrive\lập trình\desktop\Desltop_Class\Buoi_5_C#_Advance\obj\Debug\Buoi_5_C#_Advance.exe.config
+C:\Users\TRUNG PHONG\OneDrive\lập trình\desktop\Desltop_Class\Buoi_5_C#_Advance\obj\Debug\Buoi_5_C__Advance.Form1.resources
+C:\Users\TRUNG PHONG\OneDrive\lập trình\desktop\Desltop_Class\Buoi_5_C#_Advance\obj\Debug\Buoi_5_C__Advance.Properties.Resources.resources
+C:\Users\TRUNG PHONG\OneDrive\lập trình\desktop\Desltop_Class\Buoi_5_C#_Advance\obj\Debug\Buoi_5_6_C#_Advance.csproj.GenerateResource.cache
+C:\Users\TRUNG PHONG\OneDrive\lập trình\desktop\Desltop_Class\Buoi_5_C#_Advance\obj\Debug\Buoi_5_6_C#_Advance.csproj.CoreCompileInputs.cache
+C:\Users\TRUNG PHONG\OneDrive\lập trình\desktop\Desltop_Class\Buoi_5_C#_Advance\obj\Debug\Buoi_5_C#_Advance.exe
+C:\Users\TRUNG PHONG\OneDrive\lập trình\desktop\Desltop_Class\Buoi_5_C#_Advance\obj\Debug\Buoi_5_C#_Advance.pdb
+C:\Users\TRUNG PHONG\OneDrive\lập trình\desktop\Desltop_Class\Buoi_5_C#_Advance\obj\Debug\Buoi_5_C__Advance.Form2.resources
