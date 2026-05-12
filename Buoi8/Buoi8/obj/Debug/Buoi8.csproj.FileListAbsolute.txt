@@ -1,0 +1,15 @@
+C:\Users\Administrator\Downloads\Buoi8\Buoi8\bin\Debug\Buoi8.exe.config
+C:\Users\Administrator\Downloads\Buoi8\Buoi8\bin\Debug\Buoi8.exe
+C:\Users\Administrator\Downloads\Buoi8\Buoi8\bin\Debug\Buoi8.pdb
+C:\Users\Administrator\Downloads\Buoi8\Buoi8\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Downloads\Buoi8\Buoi8\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Downloads\Buoi8\Buoi8\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Downloads\Buoi8\Buoi8\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Downloads\Buoi8\Buoi8\obj\Debug\Buoi8.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\Buoi8\Buoi8\obj\Debug\Buoi8.Form1.resources
+C:\Users\Administrator\Downloads\Buoi8\Buoi8\obj\Debug\Buoi8.Properties.Resources.resources
+C:\Users\Administrator\Downloads\Buoi8\Buoi8\obj\Debug\Buoi8.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\Buoi8\Buoi8\obj\Debug\Buoi8.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Buoi8\Buoi8\obj\Debug\Buoi8.csproj.Up2Date
+C:\Users\Administrator\Downloads\Buoi8\Buoi8\obj\Debug\Buoi8.exe
+C:\Users\Administrator\Downloads\Buoi8\Buoi8\obj\Debug\Buoi8.pdb
